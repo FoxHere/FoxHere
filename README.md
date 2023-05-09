@@ -9,6 +9,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxHere&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+##
+
+<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
@@ -18,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
 <i class="devicon-microsoftsqlserver-plain"></i>
+</div>
           
 <!--
 **FoxHere/FoxHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
