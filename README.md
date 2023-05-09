@@ -1,11 +1,11 @@
 ### Hi there, eu sou o Vitor Florêncio e é um prazer tê-lo aqui em meu github, seja bem-vindo(a)👋
 
-*🔭 Estou atualmente trabalhando com automação de processos
-*🌱 Estou estudando Flutter e já posso dizer, que framework top!
-*👯 Procuro sempre contribuir com projetos em automação e fullstack na web
-*🤔 Tenho algumas dúvidas com flutter e React ainda, então aceito ajuda
-*📫 Posso ser contactado pelo [Linkedin](https://www.linkedin.com/in/vitorflorencio/)
-*😄 Ele/Dele
+* 🔭 Estou atualmente trabalhando com automação de processos
+* 🌱 Estou estudando Flutter e já posso dizer, que framework top!
+* 👯 Procuro sempre contribuir com projetos em automação e fullstack na web
+* 🤔 Tenho algumas dúvidas com flutter e React ainda, então aceito ajuda
+* 📫 Posso ser contactado pelo [Linkedin](https://www.linkedin.com/in/vitorflorencio/)
+* 😄 Ele/Dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxHere&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
