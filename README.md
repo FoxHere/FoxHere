@@ -3,7 +3,7 @@
 * 🔭 Estou atualmente trabalhando com automação de processos
 * 🌱 Estou estudando Flutter e já posso dizer, que framework top!
 * 👯 Procuro sempre contribuir com projetos em automação e fullstack na web
-* 🤔 Tenho algumas dúvidas com flutter e React ainda, então aceito ajuda
+* 🤔 Super aceito ajuda, de preferencia com flutter e React
 * 📫 Posso ser contactado pelo [Linkedin](https://www.linkedin.com/in/vitorflorencio/)
 * 😄 Ele/Dele
 
